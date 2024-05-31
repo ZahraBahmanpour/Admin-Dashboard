@@ -1,0 +1,36 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "name": "Prem Shahi",
+      "email": "premshahi@gmail.com",
+      "joined": "2024-03-15",
+      "type": "New",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Pratima Shahi",
+      "email": "pratimashahi@gmail.com",
+      "joined": "2024-03-14",
+      "type": "New",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Man Shahi",
+      "email": "manshahi@gmail.com",
+      "joined": "2024-03-12",
+      "type": "New",
+      "status": false
+    },
+    {
+      "id": "6",
+      "name": "Ganesh Chand",
+      "email": "ganeshchand@gmail.com",
+      "joined": "2024-03-01",
+      "type": "Member",
+      "status": true
+    }
+  ]
+}
